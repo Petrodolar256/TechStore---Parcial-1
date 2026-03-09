@@ -26,13 +26,13 @@ Este README brindará una breve introducción de cómo funciona a nivel de desar
 *Nuestras ofertas y productos pueden variar con el tiempo*
 ## Links
 
-El repositorio oficial de TechStore [Markdown Live Preview](https://markdownlivepreview.com/).
+El repositorio oficial de TechStore [Github](https://github.com/Petrodolar256/TechStore---Parcial-1/tree/main).
 
 ## Sobre este repositorio
 
 > Este repositorio hace parte del proceso de evaluación del parcial del primer corte de la asignatura de Programación Web de la Universidad Surcolombiana y cumple los requisitos:
 >
->> - La página debe funcionar correctamente (en su totalidad).
+- La página debe funcionar correctamente (en su totalidad).
 - En productos, deben haber mínimo 9 productos en cards de distintas categorías con el respectivo botón de agregar.
 - El formulario debe tener campos de apellidos, edad, género, dirección, teléfono y correo electrónico, además de validar
 todos los campos (RegEx). Cuando se haga clic en “Enviar”, debe salir la información diligenciada por el usuario en un
